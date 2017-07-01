@@ -1,5 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+'''
+Testing the Keras Neural Network library installation.
+Code taken from http://machinelearningmastery.com
+'''
+
 
 from keras.models import Sequential
 from keras.layers import Dense
